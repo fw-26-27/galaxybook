@@ -1,1 +1,1 @@
-*Replace with your own content, instructions in `Exercise.md`*
+Hi, I'm Rohit. I am studying Information Technology at Arcada University of Applied Sciences. I am interested in programming.
